@@ -1,3 +1,3 @@
 # Versioning test
 
-Versie 1.1.0
+Versie 1.1.1
