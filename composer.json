@@ -1,0 +1,11 @@
+{
+    "name": "eightbitsnl/versioning-test",
+    "description": "testing versions",
+    "authors": [
+        {
+            "name": "Loek Wetzels",
+            "email": "loek.wetzels@gmail.com"
+        }
+    ],
+    "require": {}
+}
